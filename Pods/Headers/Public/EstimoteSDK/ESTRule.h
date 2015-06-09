@@ -1,0 +1,5 @@
+XSym
+0083
+d7e18cb3cc1257b2a4c82ae4578bd403
+../../../EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/A/Headers/ESTRule.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

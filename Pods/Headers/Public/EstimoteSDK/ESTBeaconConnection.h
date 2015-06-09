@@ -1,0 +1,5 @@
+XSym
+0095
+f18b4e1fe1d01ea334dfe0050ea4530c
+../../../EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/A/Headers/ESTBeaconConnection.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

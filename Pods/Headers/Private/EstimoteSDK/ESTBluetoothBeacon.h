@@ -1,0 +1,5 @@
+XSym
+0094
+18b9525fa5523acea01c742457f128b5
+../../../EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/A/Headers/ESTBluetoothBeacon.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

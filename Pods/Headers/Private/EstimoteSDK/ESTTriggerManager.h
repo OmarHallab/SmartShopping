@@ -1,0 +1,5 @@
+XSym
+0093
+6c404938c88fee9b8e27902b3c6192d0
+../../../EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/A/Headers/ESTTriggerManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

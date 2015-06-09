@@ -1,0 +1,5 @@
+XSym
+0087
+ec71214e093753306240e7be213813fb
+../../../EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/A/Headers/ESTBeaconVO.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

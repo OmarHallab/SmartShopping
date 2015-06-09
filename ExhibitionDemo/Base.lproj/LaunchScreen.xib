@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="7702" systemVersion="14B25" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7701"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="eo8-Bh-1nx">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="624"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="appwallpaper2" translatesAutoresizingMaskIntoConstraints="NO" id="ITr-Rx-1rq">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="624"/>
+                </imageView>
+                <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="YNl-y3-yss">
+                    <rect key="frame" x="0.0" y="71" width="320" height="441"/>
+                    <subviews>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Vector Smart Object" translatesAutoresizingMaskIntoConstraints="NO" id="OjM-aT-tf3">
+                            <rect key="frame" x="15" y="91" width="290" height="191"/>
+                        </imageView>
+                    </subviews>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                </view>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="  Copyright (c) 2015 Primetech. All rights reserved." lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="hpp-N7-jrB" userLabel="Copyright (c) 2015 Primetech. All rights reserved.">
+                    <rect key="frame" x="0.0" y="534" width="349" height="21"/>
+                    <fontDescription key="fontDescription" name="Palatino-Roman" family="Palatino" pointSize="14"/>
+                    <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <color key="backgroundColor" red="1" green="0.39841783415873933" blue="0.077314029001342433" alpha="0.70999999999999996" colorSpace="calibratedRGB"/>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="346" y="537"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="Vector Smart Object" width="1153" height="737"/>
+        <image name="appwallpaper2" width="285" height="506"/>
+    </resources>
+</document>

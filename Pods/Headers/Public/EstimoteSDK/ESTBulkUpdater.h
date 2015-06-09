@@ -1,0 +1,5 @@
+XSym
+0090
+c8ea7c51e6ee824f0a39cea0d165e2d9
+../../../EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/A/Headers/ESTBulkUpdater.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

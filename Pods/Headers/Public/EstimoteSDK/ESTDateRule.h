@@ -1,0 +1,5 @@
+XSym
+0087
+415c586b0f2803ed9d963385becae63f
+../../../EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/A/Headers/ESTDateRule.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

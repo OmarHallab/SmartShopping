@@ -1,0 +1,5 @@
+XSym
+0102
+5410ff7adb71502dfa4aee82030ce663
+../../../EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/A/Headers/ESTNotificationTransporter.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

@@ -1,0 +1,5 @@
+XSym
+0098
+8cab2845ebc78ffeb2e88e398f8a085c
+../../../EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/A/Headers/ESTNearableDefinitions.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

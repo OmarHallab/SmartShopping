@@ -1,0 +1,5 @@
+XSym
+0093
+6dfb01e554f36588df196350e30c8296
+../../../EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/A/Headers/ESTUtilityManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

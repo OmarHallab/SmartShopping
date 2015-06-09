@@ -1,0 +1,5 @@
+XSym
+0094
+0e5944e11f88d2939cd933c7f6329c8a
+../../../EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/A/Headers/ESTTemperatureRule.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

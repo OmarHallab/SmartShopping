@@ -1,0 +1,5 @@
+XSym
+0092
+24a18175d1bbd2a0897e3f247a89dfa5
+../../../EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/A/Headers/ESTProximityRule.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

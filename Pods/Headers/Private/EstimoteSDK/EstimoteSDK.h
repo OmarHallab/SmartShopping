@@ -1,0 +1,5 @@
+XSym
+0087
+dca5a9a9ce542eeb897b6795ad3b734c
+../../../EstimoteSDK/EstimoteSDK/EstimoteSDK.framework/Versions/A/Headers/EstimoteSDK.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
